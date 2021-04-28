@@ -1,5 +1,5 @@
 # ARIMA-Modelling-of-India-s-external-debt
-This project was done as part of Psifiolexi R-1 prject in 2nd semester of Msc (BDA) Course.
+This project was done as part of Psifiolexi R-1 project in 2nd semester of Msc (BDA) Course.
 
 The base dataset was obtained from RBI website.
 
